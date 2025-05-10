@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import HomePageNav from "./HomePageNav";
+// import HomePageNav from "./HomePageNav";
 import HomePageAYN from "./HomePageAYN";
 // import HomePageLeft from './HomePageLeft'
 // import HomePageRight from './HomePageRight'
